@@ -1,0 +1,30 @@
+# Sequoia Sequoia Retro Light for WezTerm
+
+[colors]
+ansi = [
+    '#d4d5dc',
+    '#5f7982',
+    '#4a704e',
+    '#bf5238',
+    '#456a82',
+    '#c99730',
+    '#8a6539',
+    '#282930'
+]
+background = '#edeef2'
+brights = [
+    '#42434e',
+    '#c99730',
+    '#4a704e',
+    '#bf5238',
+    '#456a82',
+    '#5f7982',
+    '#8a6539',
+    '#282930'
+]
+cursor_bg = '#456a82'
+cursor_border = '#456a82'
+cursor_fg = '#edeef2'
+foreground = '#282930'
+selection_bg = '#817c9c38'
+selection_fg = '#282930'

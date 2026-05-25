@@ -1,0 +1,30 @@
+# Sequoia Sequoia Moonlight Dark for WezTerm
+
+[colors]
+ansi = [
+    '#131317',
+    '#f58ee0',
+    '#8eb6f5',
+    '#9898a6',
+    '#c58fff',
+    '#fdfdfe',
+    '#ffbb88',
+    '#868690'
+]
+background = '#0f1014'
+brights = [
+    '#575861',
+    '#f58ee0',
+    '#8eb6f5',
+    '#9898a6',
+    '#c58fff',
+    '#fdfdfe',
+    '#ffbb88',
+    '#868690'
+]
+cursor_bg = '#c58fff'
+cursor_border = '#c58fff'
+cursor_fg = '#0f1014'
+foreground = '#868690'
+selection_bg = '#817c9c26'
+selection_fg = '#868690'

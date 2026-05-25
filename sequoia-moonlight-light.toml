@@ -1,0 +1,30 @@
+# Sequoia Sequoia Moonlight Light for WezTerm
+
+[colors]
+ansi = [
+    '#d4d5dc',
+    '#c94da8',
+    '#4a85d4',
+    '#6a6a78',
+    '#9a5fd9',
+    '#282930',
+    '#d9884a',
+    '#282930'
+]
+background = '#edeef2'
+brights = [
+    '#42434e',
+    '#c94da8',
+    '#4a85d4',
+    '#6a6a78',
+    '#9a5fd9',
+    '#282930',
+    '#d9884a',
+    '#282930'
+]
+cursor_bg = '#9a5fd9'
+cursor_border = '#9a5fd9'
+cursor_fg = '#edeef2'
+foreground = '#282930'
+selection_bg = '#817c9c38'
+selection_fg = '#282930'

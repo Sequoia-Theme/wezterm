@@ -1,0 +1,30 @@
+# Sequoia Sequoia Retro Dark for WezTerm
+
+[colors]
+ansi = [
+    '#131317',
+    '#829fa7',
+    '#648f68',
+    '#da674b',
+    '#5c87a4',
+    '#e8b246',
+    '#a27e57',
+    '#868690'
+]
+background = '#0f1014'
+brights = [
+    '#575861',
+    '#e8b246',
+    '#648f68',
+    '#da674b',
+    '#5c87a4',
+    '#829fa7',
+    '#a27e57',
+    '#868690'
+]
+cursor_bg = '#5c87a4'
+cursor_border = '#5c87a4'
+cursor_fg = '#0f1014'
+foreground = '#868690'
+selection_bg = '#817c9c26'
+selection_fg = '#868690'

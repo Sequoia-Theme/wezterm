@@ -1,0 +1,30 @@
+# Sequoia Sequoia Monochrome Light for WezTerm
+
+[colors]
+ansi = [
+    '#d4d5dc',
+    '#525666',
+    '#2e3038',
+    '#50535e',
+    '#5f6370',
+    '#25262d',
+    '#454752',
+    '#282930'
+]
+background = '#edeef2'
+brights = [
+    '#42434e',
+    '#525666',
+    '#2e3038',
+    '#50535e',
+    '#5f6370',
+    '#25262d',
+    '#454752',
+    '#282930'
+]
+cursor_bg = '#5f6370'
+cursor_border = '#5f6370'
+cursor_fg = '#edeef2'
+foreground = '#282930'
+selection_bg = '#817c9c38'
+selection_fg = '#282930'
