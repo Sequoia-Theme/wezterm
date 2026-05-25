@@ -23,4 +23,4 @@ Available files: `sequoia-moonlight-dark.toml`, `sequoia-moonlight-light.toml`, 
 
 ## Created by
 
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
